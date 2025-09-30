@@ -48,22 +48,5 @@ Table 2: nutrient_info
 Table 3: derived_metrics
 
 # 📊 Power BI Visualization 
-Bar chart: Number of products in each calorie_category.
+<img width="1117" height="630" alt="image" src="https://github.com/user-attachments/assets/cdf4c9b5-0e4e-48ef-8606-b832b4b87936" />
 
-Pie chart: Distribution of products by nova-group.
-
-Bar chart: Top 10 brands by average energy-kcal_value.
-
-Scatter plot: Calories vs Sugar content.
-
-Boxplot: sugar_to_carb_ratio distribution across brands.
-
-Treemap: Product count by brand and calorie_category.
-
-Heatmap: Correlation between calories, sugars, and fat.
-
-Bar chart: Number of High Sugar products per brand.
-
-Stacked bar: Count of ultra-processed vs minimally processed products per brand.
-
-KPI Cards: Display average calories, average sugars, and number of ultra-processed products.
