@@ -48,5 +48,6 @@ Table 2: nutrient_info
 Table 3: derived_metrics
 
 # 📊 Power BI Visualization 
-<img width="1117" height="630" alt="image" src="https://github.com/user-attachments/assets/cdf4c9b5-0e4e-48ef-8606-b832b4b87936" />
+<img width="1121" height="628" alt="image" src="https://github.com/user-attachments/assets/ee218a2f-9f22-494f-8466-700d0eea47d1" />
+
 
