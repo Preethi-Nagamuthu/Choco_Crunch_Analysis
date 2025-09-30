@@ -49,5 +49,7 @@ Table 3: derived_metrics
 
 # 📊 Power BI Visualization 
 <img width="1121" height="628" alt="image" src="https://github.com/user-attachments/assets/ee218a2f-9f22-494f-8466-700d0eea47d1" />
+<img width="1123" height="628" alt="image" src="https://github.com/user-attachments/assets/3b398e1e-d61a-4088-8817-5ad99bf57b03" />
+
 
 
